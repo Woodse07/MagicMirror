@@ -44,7 +44,7 @@ Module.register("calendar", {
 		calendars: [
 			{
 				symbol: "calendar",
-				url: "https://www.calendarlabs.com/templates/ical/US-Holidays.ics"
+				url: "https://www.officeholidays.com/ics-all/ireland"
 			}
 		],
 		titleReplace: {
